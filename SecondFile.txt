@@ -3,3 +3,5 @@ This is my first file
 Adding a new line as a part of the updates branch.Added a new thing from master and resolved the merge conflict here
 
 This is a bugfix on the master
+
+Adding a new feature on the second line
