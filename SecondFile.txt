@@ -7,3 +7,5 @@ This is a bugfix on the master
 Adding a new feature on the second line
 
 This is a new feature for addDate
+
+This is a bug for addDate
