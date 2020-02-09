@@ -5,3 +5,5 @@ Adding a new line as a part of the updates branch.Added a new thing from master 
 This is a bugfix on the master
 
 Adding a new feature on the second line
+
+This is a new feature for addDate
